@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/index.m3u",
+      "destination": "/api/index.js"
+    }
+  ]
+}
